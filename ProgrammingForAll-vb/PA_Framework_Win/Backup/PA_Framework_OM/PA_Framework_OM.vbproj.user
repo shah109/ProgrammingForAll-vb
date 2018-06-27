@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE</StartProgram>
+    <StartArguments>C:\PA_InstituteXLS\PA_Institute_1.1.xls</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files (x86)\Microsoft Office\Office11\EXCEL.EXE</StartProgram>
+    <StartArguments>C:\PA_InstituteXLS\PA_Institute_1.1.xls</StartArguments>
+  </PropertyGroup>
+</Project>

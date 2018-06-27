@@ -1,0 +1,11 @@
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\bin\Release\WindowsFormApplication1.exe.config
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\bin\Release\WindowsFormApplication1.exe
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\bin\Release\WindowsFormApplication1.pdb
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\bin\Release\WindowsFormApplication1.xml
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\obj\Release\WindowsFormApplication1.Form1.resources
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\obj\Release\WindowsFormApplication1.Resources.resources
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\obj\Release\WindowsFormApplication1.vbproj.GenerateResource.Cache
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\obj\Release\WindowsFormApplication1.exe
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\obj\Release\WindowsFormApplication1.xml
+C:\Users\Shah\AppData\Local\Temporary Projects\WindowsFormApplication1\obj\Release\WindowsFormApplication1.pdb

@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PA_Framework_Win", "PA_Framework_Win.vbproj", "{75C867EE-1692-46D8-8D5D-DE87FF09F046}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PA_Framework_Lib", "..\PA_Framework_Lib\PA_Framework_Lib.vbproj", "{8E373618-C051-4A13-9536-7C376AF34745}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PA_Framework_OM", "..\PA_Framework_OM\PA_Framework_OM.vbproj", "{867AE7E8-05CF-4C84-A596-6FD45833F4E4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PA_Framework_Setup", "..\PAFramework_Setup\PAFramework_Setup.vdproj", "{1B87FA62-2ACE-4057-AEF5-6990D562EE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA_Framework_C", "..\PA_Framework_C\PA_Framework_C.csproj", "{2F545A69-0FAB-4CB6-B569-8E7F96CCF4DB}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C867EE-1692-46D8-8D5D-DE87FF09F046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C867EE-1692-46D8-8D5D-DE87FF09F046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C867EE-1692-46D8-8D5D-DE87FF09F046}.Debug|x86.ActiveCfg = Release|x86
+		{75C867EE-1692-46D8-8D5D-DE87FF09F046}.Debug|x86.Build.0 = Release|x86
+		{75C867EE-1692-46D8-8D5D-DE87FF09F046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C867EE-1692-46D8-8D5D-DE87FF09F046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C867EE-1692-46D8-8D5D-DE87FF09F046}.Release|x86.ActiveCfg = Release|x86
+		{75C867EE-1692-46D8-8D5D-DE87FF09F046}.Release|x86.Build.0 = Release|x86
+		{8E373618-C051-4A13-9536-7C376AF34745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E373618-C051-4A13-9536-7C376AF34745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E373618-C051-4A13-9536-7C376AF34745}.Debug|x86.ActiveCfg = Release|x86
+		{8E373618-C051-4A13-9536-7C376AF34745}.Debug|x86.Build.0 = Release|x86
+		{8E373618-C051-4A13-9536-7C376AF34745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E373618-C051-4A13-9536-7C376AF34745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E373618-C051-4A13-9536-7C376AF34745}.Release|x86.ActiveCfg = Release|x86
+		{8E373618-C051-4A13-9536-7C376AF34745}.Release|x86.Build.0 = Release|x86
+		{867AE7E8-05CF-4C84-A596-6FD45833F4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867AE7E8-05CF-4C84-A596-6FD45833F4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867AE7E8-05CF-4C84-A596-6FD45833F4E4}.Debug|x86.ActiveCfg = Release|x86
+		{867AE7E8-05CF-4C84-A596-6FD45833F4E4}.Debug|x86.Build.0 = Release|x86
+		{867AE7E8-05CF-4C84-A596-6FD45833F4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867AE7E8-05CF-4C84-A596-6FD45833F4E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867AE7E8-05CF-4C84-A596-6FD45833F4E4}.Release|x86.ActiveCfg = Release|x86
+		{867AE7E8-05CF-4C84-A596-6FD45833F4E4}.Release|x86.Build.0 = Release|x86
+		{1B87FA62-2ACE-4057-AEF5-6990D562EE34}.Debug|Any CPU.ActiveCfg = Debug
+		{1B87FA62-2ACE-4057-AEF5-6990D562EE34}.Debug|x86.ActiveCfg = Release
+		{1B87FA62-2ACE-4057-AEF5-6990D562EE34}.Release|Any CPU.ActiveCfg = Release
+		{1B87FA62-2ACE-4057-AEF5-6990D562EE34}.Release|Any CPU.Build.0 = Release
+		{1B87FA62-2ACE-4057-AEF5-6990D562EE34}.Release|x86.ActiveCfg = Debug
+		{2F545A69-0FAB-4CB6-B569-8E7F96CCF4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F545A69-0FAB-4CB6-B569-8E7F96CCF4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F545A69-0FAB-4CB6-B569-8E7F96CCF4DB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2F545A69-0FAB-4CB6-B569-8E7F96CCF4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F545A69-0FAB-4CB6-B569-8E7F96CCF4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F545A69-0FAB-4CB6-B569-8E7F96CCF4DB}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

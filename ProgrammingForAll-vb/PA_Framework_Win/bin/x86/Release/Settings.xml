@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>DBType</Key>
+    <Value>MSAccess</Value>
+  </Settings>
+  <Settings>
+    <Key>AccessDBPath</Key>
+    <Value>C:\PA_InstituteXLS\PA_Institute.mdb</Value>
+  </Settings>
+  <Settings>
+    <Key>AccessLoginID</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>AcccessLoginPassword</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>AuditEntriesToShow</Key>
+    <Value>4000</Value>
+  </Settings>
+  <Settings>
+    <Key>bAskForUpdateConfirmation</Key>
+    <Value>False</Value>
+  </Settings>
+  <Settings>
+    <Key>LoginName</Key>
+    <Value>Shah</Value>
+  </Settings>
+  <Settings>
+    <Key>ComputerName</Key>
+    <Value>SHAH-PC</Value>
+  </Settings>
+  <Settings>
+    <Key>DomainName</Key>
+    <Value>Shah-PC</Value>
+  </Settings>
+  <Settings>
+    <Key>LastUpdateID</Key>
+    <Value>11118</Value>
+  </Settings>
+  <Settings>
+    <Key>AccessRights</Key>
+    <Value>2</Value>
+  </Settings>
+  <Settings>
+    <Key>MultiUserAccess</Key>
+    <Value>False</Value>
+  </Settings>
+  <Settings>
+    <Key>LoginNumber</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>Comments</Key>
+    <Value>
+Always check changes in
+1.OMGlobals_Custom.vb
+2. MetaData_Custom.vb
+3. PAEnt.vb
+4. Custom Entity Classes
+5. Custom Entity Collection classes
+
+Changes in these files will result in changes in
+PA_CodeGenerator
+
+1. The item ID has to be there in all entities. It may refer to any existing key integer key column in a table if there is one.
+
+2. LastUpdate field has to be there in all tables.
+
+ControlReference: If the control is a combo or list, its input may need to come from an array. This is the name of the array in the DB table AppArrays.
+
+</Value>
+  </Settings>
+  <Settings>
+    <Key>YearsToAccessHistory</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>MonthsToAccessHistory</Key>
+    <Value>13</Value>
+  </Settings>
+  <Settings>
+    <Key>CurrPath</Key>
+    <Value>C:\PA_InstituteXLS\PA_Framework_Win\bin\x86\Release</Value>
+  </Settings>
+</NewDataSet>

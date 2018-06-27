@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>DBType</Key>
+    <Value>MSAccess</Value>
+  </Settings>
+  <Settings>
+    <Key>AccessDBPath</Key>
+    <Value>C:\PA_Institute\PA_Framework_Win\bin\x86\Debug\PA_Institute.mdb</Value>
+  </Settings>
+  <Settings>
+    <Key>AccessLoginID</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>AcccessLoginPassword</Key>
+    <Value>False</Value>
+  </Settings>
+  <Settings>
+    <Key>AuditEntriesToShow</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>bAskForUpdateConfirmation</Key>
+    <Value>False</Value>
+  </Settings>
+  <Settings>
+    <Key>LoginName</Key>
+    <Value>rd1</Value>
+  </Settings>
+  <Settings>
+    <Key>ComputerName</Key>
+    <Value>MIT262</Value>
+  </Settings>
+  <Settings>
+    <Key>DomainName</Key>
+    <Value>MIT262</Value>
+  </Settings>
+  <Settings>
+    <Key>LastUpdateID</Key>
+    <Value>7252</Value>
+  </Settings>
+  <Settings>
+    <Key>LoginNumber</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>MultiUserAccess</Key>
+    <Value>False</Value>
+  </Settings>
+  <Settings>
+    <Key>AccessRights</Key>
+    <Value>2</Value>
+  </Settings>
+  <Settings>
+    <Key>6944</Key>
+    <Value>6944</Value>
+  </Settings>
+  <Settings>
+    <Key>6952</Key>
+    <Value>6952</Value>
+  </Settings>
+</NewDataSet>
